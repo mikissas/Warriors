@@ -36,7 +36,7 @@ public class ClientDAO {
 
         List<Client> Cl = new ArrayList<Client>();
 
-        String requete = "select * from Client";
+        String requete = "select * from Client ";
         try {
            Statement statement = (Statement) MyConnection.getInstance()
                    .createStatement();

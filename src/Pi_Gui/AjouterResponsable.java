@@ -13,6 +13,7 @@ import javax.swing.JOptionPane;
  * @author Naoufel
  */
 public class AjouterResponsable extends javax.swing.JFrame {
+    
 
     /**
      * Creates new form AjouterResponsable
@@ -196,6 +197,7 @@ public class AjouterResponsable extends javax.swing.JFrame {
             java.util.logging.Logger.getLogger(AjouterResponsable.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
+        
 
         /*
          * Create and display the form
@@ -223,3 +225,4 @@ public class AjouterResponsable extends javax.swing.JFrame {
     private javax.swing.JTextArea jTextArea1;
     // End of variables declaration//GEN-END:variables
 }
+
